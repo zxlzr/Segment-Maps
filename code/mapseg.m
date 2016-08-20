@@ -1,8 +1,4 @@
-%%%
-%%% you are welcome to use this tool for research purpose, however, you may consider citing the following papers:
-%%% [1] Nicholas Jing Yuan, Yu Zheng and Xing Xie, Segmentation of Urban Areas Using Road Networks, MSR TR-2012-65
-%%% [2] Yu Zheng, Yanchi Liu, Jing Yuan, and Xing Xie. Urban Computing with Taxicabs, ACM Ubicomp, 2011.
-%%%
+
 
 clear all;
 
